@@ -1,6 +1,4 @@
-//
-// Created by Anass  on 20.06.23.
-//
+
 
 #ifndef ALGORITHMS_PALINDROM_H
 #define ALGORITHMS_PALINDROM_H

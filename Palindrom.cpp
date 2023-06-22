@@ -1,6 +1,4 @@
-//
-// Created by Anass  on 20.06.23.
-//
+
 
 #include "Palindrom.h"
 #include <iostream>
