@@ -2,6 +2,9 @@
 #include "Palindrom.h"
 #include "MyStack.h"
 
+
+ListNode* sortList(ListNode* head);
+
 int main() {
     std::cout << "Hello, World!" << std::endl;
     Palindrom(121);
